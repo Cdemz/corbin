@@ -52,8 +52,8 @@ export default function Home() {
                 </div>
                 <div className="text-[var(--color-text)]">
                   <h1>Quick Contact</h1>
-                  <p>Email: banksconcrete@gmail.com</p>
-                  <p>Phone:(678)-878-9128</p>
+                  <p>Email: corbinmechanicals401@gmail.com</p>
+                  <p>Phone:tobeupadted</p>
                 </div>
               </div>
               {/* item 2 */}
@@ -63,15 +63,14 @@ export default function Home() {
                 </div>
                 <div className="text-[var(--color-text)]">
                   <h1>Our Location</h1>
-                  <p>Atlanta</p>
-                  <p>Atlanta Goergia</p>
+                  <p>pending</p>
+                  <p>pending</p>
                 </div>
               </div>
               {/* float item  */}
               <div className="bg-[var(--color-primary)] absolute h-[7rem] w-[20rem] p-6 top-[-110px] right-10">
                 <p>
-                  A Leading Developer Of A Grade Commercial & Residential
-                  Project
+                  A Leading Plumber Of A Grade Commercial & Residential Project
                 </p>
               </div>
             </div>
