@@ -78,7 +78,7 @@ const Experience = () => {
               className="  h-[14rem]w-full object-cover"
             />
             <h1 className="text-[var(--color-primary)] font-bold">
-              Residential Construction
+              Residential Plumbing
             </h1>
             <p>
               {" "}
